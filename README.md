@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋, I'm ✨Mahmoud El Shenawy✨ 😄</h1>
+<h1 align="center">Hello World 👋, I'm ✨Mahmoud El Shenawy✨ 😄</h1>
 <h3 align="center">🌱 Software Engineer (Mobile Development) 🧐</h3>
 
 <a href="https://github.com/Mahmoud-ElShenawy" target="_blank"><img src="https://komarev.com/ghpvc/?username=Mahmoud-ElShenawy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-ElShenawy"></a>
