@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/dev-mahmoud-elshenawy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20El%20Shenawy-blue" alt="LinkedIn"></a>
 <a href="https://www.buymeacoffee.com/m.elshenawy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" width="135"> </a>
 
+- 👨‍💻 All of my projects are available at on GitHup and Tips-Tricks & Advises on LinkedIn 
+- 💬 Ask me about **Mobile Development**
+- 📫 How to reach me **Dev.Mahmoud.ElShenawy@gmail.com**
+
 <!--
 **Mahmoud-ElShenawy/Mahmoud-ElShenawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
