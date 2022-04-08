@@ -2,7 +2,7 @@
 <h3 align="center">🌱 Software Engineer (Mobile Development)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-ElShenawy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-ElShenawy"/></p>
-(https://img.shields.io/badge/Creator-Mahmoud%20El%20Shenawy-blue)](https://www.linkedin.com/in/dev-mahmoud-elshenawy/)
+<p align="left"> <img src="https://img.shields.io/badge/Creator-Mahmoud%20El%20Shenawy-blue" alt="https://www.linkedin.com/in/dev-mahmoud-elshenawy"/></p>
 <a href="https://www.buymeacoffee.com/m.elshenawy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="174" > </a>
 
 <!--
