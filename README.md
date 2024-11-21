@@ -11,8 +11,8 @@
 <a href="https://www.buymeacoffee.com/m.elshenawy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="170"> </a>
 
 <h3 align="center">📚 Dive into insightful articles on <a href="https://medium.com/@dev-mahmoud-elshenawy" target="_blank">Medium</a> for insights on Software Engineering</h3>
-<h3 align="center">🚀 Explore my Tools & Packages:
-<a href="https://github.com/dev-mahmoud-elshenawy/sheno_cli" target="_blank">Sheno CLI</a>
-<a href="https://pub.dev/packages/image_craft" target="_blank">ImageCraft</a>, 
-<a href="https://pub.dev/packages/auto_validate" target="_blank">AutoValidate</a>, & 
+<h3 align="center">🚀 Explore my Tools & Packages: 
+<a href="https://github.com/dev-mahmoud-elshenawy/sheno_cli" target="_blank">Sheno CLI</a>, 
+<a href="https://pub.dev/packages/image_craft" target="_blank">ImageCraft</a>, & 
+<a href="https://pub.dev/packages/auto_validate" target="_blank">AutoValidate</a>
 </h3>
