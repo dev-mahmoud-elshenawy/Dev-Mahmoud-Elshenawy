@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=220&section=header&text=Mahmoud%20El%20Shenawy&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Mobile%20Team%20Lead%20%7C%20Flutter%20%26%20React%20Native%20%7C%20Open%20Source&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=220&section=header&text=Mahmoud%20El%20Shenawy&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Team%20Lead&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Mahmoud+El+Shenawy;Software+Engineer+%7C+Team+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=160&lines=Architecting+Mobile+Solutions+with+Flutter+%26+React+Native;Building+Backend+Systems+with+Laravel+%26+Node.js;Designing+Micro-Frameworks+%26+Developer+Tools;Leading+Engineering+Teams+%26+Delivering+at+Scale;Open+Source+Author+%7C+5%2B+Published+Packages" alt="Typing SVG" width="750" height="160"/>
 
 <br/>
 
@@ -34,25 +34,44 @@
 
 <div align="center">
 
-<a href="https://github.com/dev-mahmoud-elshenawy/opticore">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mahmoud-elshenawy&repo=opticore&theme=react&bg_color=0D1117&border_color=1A6BD4&icon_color=00D9FF&title_color=00D9FF&description_color=C9D1D9" alt="Opticore Flutter"/>
-</a>
-&nbsp;
-<a href="https://github.com/dev-mahmoud-elshenawy/opticore-react-native">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mahmoud-elshenawy&repo=opticore-react-native&theme=react&bg_color=0D1117&border_color=1A6BD4&icon_color=00D9FF&title_color=00D9FF&description_color=C9D1D9" alt="Opticore React Native"/>
-</a>
-
-<a href="https://github.com/dev-mahmoud-elshenawy/optikit">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mahmoud-elshenawy&repo=optikit&theme=react&bg_color=0D1117&border_color=1A6BD4&icon_color=00D9FF&title_color=00D9FF&description_color=C9D1D9" alt="OptiKit CLI"/>
-</a>
-&nbsp;
-<a href="https://github.com/dev-mahmoud-elshenawy/image_craft">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mahmoud-elshenawy&repo=image_craft&theme=react&bg_color=0D1117&border_color=1A6BD4&icon_color=00D9FF&title_color=00D9FF&description_color=C9D1D9" alt="ImageCraft"/>
-</a>
-
-<a href="https://github.com/dev-mahmoud-elshenawy/auto_validate">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mahmoud-elshenawy&repo=auto_validate&theme=react&bg_color=0D1117&border_color=1A6BD4&icon_color=00D9FF&title_color=00D9FF&description_color=C9D1D9" alt="AutoValidate"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://pub.dev/packages/opticore">
+        <img src="https://img.shields.io/badge/Opticore-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Opticore Flutter"/><br/>
+        <sub><b>Mobile Micro-Framework</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.npmjs.com/package/opticore-react-native">
+        <img src="https://img.shields.io/badge/Opticore-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117" alt="Opticore React Native"/><br/>
+        <sub><b>Scalable Mobile Infrastructure</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.npmjs.com/package/optikit">
+        <img src="https://img.shields.io/badge/OptiKit-CLI%20Tool-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="OptiKit CLI"/><br/>
+        <sub><b>Version & Build Automation CLI</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://pub.dev/packages/image_craft">
+        <img src="https://img.shields.io/badge/ImageCraft-Package-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
+        <sub><b>Advanced Image Processing</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://pub.dev/packages/auto_validate">
+        <img src="https://img.shields.io/badge/AutoValidate-Package-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="AutoValidate"/><br/>
+        <sub><b>Declarative Form Validation</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -119,30 +138,6 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mahmoud-elshenawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=1A6BD4" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mahmoud-elshenawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mahmoud-elshenawy&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A6BD4&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mahmoud-elshenawy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=1A6BD4&point=00D9FF&area=true&area_color=1A6BD4" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
