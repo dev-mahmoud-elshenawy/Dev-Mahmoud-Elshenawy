@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=220&section=header&text=Mahmoud%20El%20Shenawy&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Team%20Lead&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=160&lines=Architecting+Mobile+Solutions+with+Flutter+%26+React+Native;Building+Backend+Systems+with+Laravel+%26+Node.js;Designing+Micro-Frameworks+%26+Developer+Tools;Leading+Engineering+Teams+%26+Delivering+at+Scale;Open+Source+Author+%7C+5%2B+Published+Packages" alt="Typing SVG" width="750" height="160"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=160&lines=Architecting+Mobile+Solutions+with+Flutter+%26+React+Native;Building+Backend+Systems+with+Laravel+%26+Node.js;Designing+Micro-Frameworks+%26+Developer+Tools;Leading+Engineering+Teams+%26+Delivering+at+Scale;Open+Source+Author+%7C+6%2B+Published+Packages" alt="Typing SVG" width="750" height="160"/>
 
 <br/>
 
@@ -57,6 +57,12 @@
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="https://pub.dev/packages/optireact">
+        <img src="https://img.shields.io/badge/OptiReact-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="OptiReact"/><br/>
+        <sub><b>Reactive State Management</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://pub.dev/packages/image_craft">
         <img src="https://img.shields.io/badge/ImageCraft-Package-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
         <sub><b>Advanced Image Processing</b></sub>
@@ -67,8 +73,6 @@
         <img src="https://img.shields.io/badge/AutoValidate-Package-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="AutoValidate"/><br/>
         <sub><b>Declarative Form Validation</b></sub>
       </a>
-    </td>
-    <td align="center" width="33%">
     </td>
   </tr>
 </table>
