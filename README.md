@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=220&section=header&text=Mahmoud%20El%20Shenawy&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Team%20Lead&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=160&lines=Architecting+Mobile+Solutions+with+Flutter+%26+React+Native;Building+Backend+Systems+with+Laravel+%26+Node.js;Designing+Micro-Frameworks+%26+Developer+Tools;Leading+Engineering+Teams+%26+Delivering+at+Scale;Open+Source+Author+%7C+6%2B+Published+Packages" alt="Typing SVG" width="750" height="160"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=160&lines=Architecting+Mobile+Solutions+with+Flutter+%26+React+Native;Building+Backend+Systems+with+Laravel+%26+Node.js;Designing+Micro-Frameworks+%26+Developer+Tools;Leading+Engineering+Teams+%26+Delivering+at+Scale;Open+Source+Author+%7C+7%2B+Published+Packages" alt="Typing SVG" width="750" height="160"/>
 
 <br/>
 
@@ -75,6 +75,16 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://pub.dev/packages/optitest">
+        <img src="https://img.shields.io/badge/OptiTest-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="OptiTest"/><br/>
+        <sub><b>Automation Identity & Testing</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
 </table>
 
 </div>
@@ -138,31 +148,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=0D1117)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<p>
-  💬 Got a question about <b>Flutter</b>, <b>React Native</b>, <b>Laravel</b>, or <b>Mobile Development</b>? I'm always happy to help.<br/>
-  🚀 Open to collaborations on developer tooling and open source projects.
-</p>
-
-<a href="https://www.buymeacoffee.com/m.elshenawy">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=120&section=footer" width="100%"/>
+![Android
