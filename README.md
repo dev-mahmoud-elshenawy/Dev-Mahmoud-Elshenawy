@@ -157,8 +157,33 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+<br/>
+
+
+<!-- CONNECT -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+  💬 Got a question about <b>Flutter</b>, <b>React Native</b>, <b>Laravel</b>, or <b>Mobile Development</b>? I'm always happy to help.<br/>
+  🚀 Open to collaborations on developer tooling and open source projects.
+</p>
+
+<a href="https://www.buymeacoffee.com/m.elshenawy">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6BD4,100:00D9FF&height=120&section=footer" width="100%"/>
+
 
 
