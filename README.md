@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://pub.dev/packages/image_craft">
-        <img src="https://img.shields.io/badge/ImageCraft-Flutter-00D9FF??style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
+        <img src="https://img.shields.io/badge/ImageCraft-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
         <sub><b>Advanced Image Processing</b></sub>
       </a>
     </td>
