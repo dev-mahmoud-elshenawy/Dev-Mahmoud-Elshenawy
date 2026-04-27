@@ -64,13 +64,13 @@
     </td>
     <td align="center" width="33%">
       <a href="https://pub.dev/packages/image_craft">
-        <img src="https://img.shields.io/badge/ImageCraft-Package-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
+        <img src="https://img.shields.io/badge/ImageCraft-Flutter-00D9FF??style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
         <sub><b>Advanced Image Processing</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://pub.dev/packages/auto_validate">
-        <img src="https://img.shields.io/badge/AutoValidate-Package-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="AutoValidate"/><br/>
+        <img src="https://img.shields.io/badge/AutoValidate-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="AutoValidate"/><br/>
         <sub><b>Declarative Form Validation</b></sub>
       </a>
     </td>
@@ -82,8 +82,8 @@
         <sub><b>Automation Identity & Testing</b></sub>
       </a>
     </td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
+    <!-- <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td> -->
   </tr>
 </table>
 
@@ -148,4 +148,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Android
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
