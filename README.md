@@ -76,7 +76,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" >
       <a href="https://pub.dev/packages/optitest">
         <img src="https://img.shields.io/badge/OptiTest-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="OptiTest"/><br/>
         <sub><b>Automation Identity & Testing</b></sub>
