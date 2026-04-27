@@ -62,10 +62,10 @@
         <sub><b>Reactive State Management</b></sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://pub.dev/packages/image_craft">
-        <img src="https://img.shields.io/badge/ImageCraft-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
-        <sub><b>Advanced Image Processing</b></sub>
+      <td align="center" width="33%">
+      <a href="https://pub.dev/packages/optitest">
+        <img src="https://img.shields.io/badge/OptiTest-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="OptiTest"/><br/>
+        <sub><b>Automation Identity & Testing</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
@@ -76,10 +76,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://pub.dev/packages/optitest">
-        <img src="https://img.shields.io/badge/OptiTest-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="OptiTest"/><br/>
-        <sub><b>Automation Identity & Testing</b></sub>
+   <td align="center" width="33%">
+      <a href="https://pub.dev/packages/image_craft">
+        <img src="https://img.shields.io/badge/ImageCraft-Flutter-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="ImageCraft"/><br/>
+        <sub><b>Advanced Image Processing</b></sub>
       </a>
     </td>
     <td align="center" width="33%"></td>
